@@ -1,0 +1,28 @@
+{
+  "gifts": [
+    {
+      "id": 1,
+      "name": "Belgian Chocolate Box",
+      "description": "Assorted premium dark and milk chocolates (12 pieces).",
+      "price": "1200",
+      "imageUrl": "file:///android_asset/images/chocolates.png",
+      "category": "gifts"
+    },
+    {
+      "id": 2,
+      "name": "Teddy Bear",
+      "description": "Cute 10-inch teddy to accompany your floral gift.",
+      "price": "950",
+      "imageUrl": "file:///android_asset/images/teddy_bear.png",
+      "category": "gifts"
+    },
+    {
+      "id": 3,
+      "name": "Scented Candle",
+      "description": "Lavender-scented soy candle in a glass jar.",
+      "price": "850",
+      "imageUrl": "file:///android_asset/images/candle.png",
+      "category": "gifts"
+    }
+  ]
+}

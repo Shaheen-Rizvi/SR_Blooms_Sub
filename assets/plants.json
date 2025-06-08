@@ -1,0 +1,28 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Mini Snake Plant",
+      "description": "Low-maintenance indoor plant perfect for desks and shelves.",
+      "price": "1800",
+      "imageUrl": "file:///android_asset/images/snake_plant.png",
+      "category": "plants"
+    },
+    {
+      "id": 2,
+      "name": "Peace Lily",
+      "description": "Air-purifying plant with glossy leaves and elegant white blooms.",
+      "price": "2500",
+      "imageUrl": "file:///android_asset/images/peace_lily.png",
+      "category": "plants"
+    },
+    {
+      "id": 3,
+      "name": "Succulent Trio",
+      "description": "Set of 3 assorted succulents in cute ceramic pots.",
+      "price": "2000",
+      "imageUrl": "file:///android_asset/images/succulent_trio.png",
+      "category": "plants"
+    }
+  ]
+}

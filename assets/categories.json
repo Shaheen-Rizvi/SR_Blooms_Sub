@@ -1,0 +1,7 @@
+{
+  "categories": [
+    { "id": 1, "name": "Bouquets", "imageUrl": "file:///android_asset/images/category_bouquets.png" },
+    { "id": 2, "name": "Plants", "imageUrl": "file:///android_asset/images/category_plants.png" },
+    { "id": 3, "name": "Gifts", "imageUrl": "file:///android_asset/images/category_gifts.png" }
+  ]
+}

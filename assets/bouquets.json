@@ -1,0 +1,28 @@
+{
+  "bouquets": [
+    {
+      "id": 1,
+      "name": "Red Rose Romance",
+      "description": "A passionate bundle of 12 red roses, wrapped in elegant black and gold.",
+      "price": "3500",
+      "imageUrl": "file:///android_asset/images/rose_romance.png",
+      "category": "bouquets"
+    },
+    {
+      "id": 2,
+      "name": "Sunshine Mix",
+      "description": "Bright yellow lilies, sunflowers, and daisies to bring a cheerful vibe.",
+      "price": "4200",
+      "imageUrl": "file:///android_asset/images/sunshine_mix.png",
+      "category": "bouquets"
+    },
+    {
+      "id": 3,
+      "name": "Pink Elegance",
+      "description": "Soft pink roses and carnations with baby’s breath in a pastel wrap.",
+      "price": "3800",
+      "imageUrl": "file:///android_asset/images/pink_elegance.png",
+      "category": "bouquets"
+    }
+  ]
+}
